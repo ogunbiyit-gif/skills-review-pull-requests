@@ -11,7 +11,7 @@
 
 _Collaborate and work together on GitHub._
 
-</header>
+// Okay
 
 <!--
   <<< Author notes: Step 6 >>>
